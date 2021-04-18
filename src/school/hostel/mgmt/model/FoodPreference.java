@@ -1,4 +1,6 @@
 package school.hostel.mgmt.model;
 
-public class FoodPreference {
+public enum  FoodPreference {
+    V,
+    NV;
 }

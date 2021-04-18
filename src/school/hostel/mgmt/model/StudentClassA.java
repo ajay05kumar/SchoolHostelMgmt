@@ -1,4 +1,4 @@
 package school.hostel.mgmt.model;
 
-public class StudentClassA {
+public class StudentClassA extends StudentClass{
 }
